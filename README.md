@@ -40,3 +40,11 @@ A collection of machine learning and deep learning projects applying core ML met
 **Goal:** Predict TF binding sites from DNA sequences.  
 **Model:** CNN (PyTorch)  
 **Focus:** Sequence encoding, CNN design, motif-level interpretation.
+
+---
+
+### 5. Predicting Breast Tumor Malignancy with Deep Convolutional Models
+**Notebook:** `BreastTumorMalignancyCNN.ipynb`  
+**Goal:** Predict breast tumor malignancy from histopathology images using deep CNN architectures.  
+**Model:** Custom PyTorch CNN, Fine-tuned ResNet18, FiLM-augmented ResNet18  
+**Focus:** Transfer learning, fine-tuning, conditional modulation, and robust evaluation with class imbalance handling.
